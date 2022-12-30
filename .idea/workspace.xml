@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f8258ab-3d80-4346-979a-0d14af3ca181" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicatedNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ElementLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenAndOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IceAmericano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quadrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SharePizza1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SharePizza2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TallerThan.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JdFgIcw4sZrG62pRKz3I1qw6Dl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/songeon/Desktop/sparta/algorithm-java/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxValue" />
+      <module name="algorithm-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f8258ab-3d80-4346-979a-0d14af3ca181" name="Changes" comment="" />
+      <created>1672400166194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672400166194</updated>
+      <workItem from="1672400168088" duration="786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
