@@ -5,13 +5,12 @@
  */
 public class UpperAndLowerCase {
     public static String solution(String my_string) {
-        String answer = "";
+        StringBuilder answer = new StringBuilder();
         char[] str = my_string.toCharArray();
         for(char ch : str) {
-            answer += Character.isLowerCase(ch) ?
-                    Character.toUpperCase(ch) : Character.toLowerCase(ch);
+            answer.append(Character.isLowerCase(ch) ? Character.toUpperCase(ch) : Character.toLowerCase(ch));
         }
-        return answer;
+        return answer.toString();
     }
 
     public static void main(String[] args) {
